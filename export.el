@@ -6,5 +6,4 @@
 (setf org-export-with-author nil)
 (setf org-export-with-creator nil)
 (setf org-export-with-email nil)
-(load-file "/emacs/ob-blockdiag.el")
 (prefer-coding-system 'utf-8-unix)

@@ -4,6 +4,5 @@
 (package-refresh-contents)
 (package-initialize)
 (package-install 'org-plus-contrib)
-(package-install 'htmlize)
-(package-install 'json-mode)
+(package-install 'htmlize)(package-install 'json-mode)
 (package-install 'erlang)
